@@ -1,0 +1,16 @@
+.gw{
+    list-style: none;
+    padding:0;
+    width:980px;
+    height: 500px;
+    margin:0px auto 0;
+#    position: relative;
+    background-color: #F0F0F0;
+}
+.gw li{
+    text-decoration: none;
+    text-align: center;
+    color:#0000FF;
+    margin:10px auto 0;
+
+}

@@ -1,0 +1,75 @@
+*{
+    margin:0px;padding:0px;
+}
+body{
+    background:#f5f5f6; font-size:14px;
+}
+img{
+    border:0;
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:underline;
+}
+#contai{
+    width:860px;margin:0px auto;
+}
+#contai h1{
+    font-size:14px; padding:10px 0;color:#b63300
+}
+.hader{
+    height:40px;background:#e5ecf0;margin:10px 0;
+}
+.long{
+    color:#2e3f55; font-weight:bold;padding:5px 0 0 10px;
+}
+.long input{
+    width:160px;height:22px;border:1px #9fb3bd solid;
+}
+.long dl dt{
+    float:left; padding:3px 10px 0 0;
+}
+.paly{
+    padding:12px 0 0 10px; color:#2e3f55;
+}
+.paly a{
+    color:#7e99b2;
+}
+.paly .a{
+    color:#008018
+}
+.paly .b{
+    color:#b63401
+}
+.paly .b a{
+    color:#2e3f55;
+}
+.jies{ color:#2e3f55;line-height:24px; padding:10px;
+    background:white;border:1px #d4d8de solid; margin:10px 0 0 0;
+}
+.game{ text-align:center; padding-top:15px; line-height:24px; color:#2e3f55; margin:0 7px; display:inline;
+    width:272px;background:url('../images/pic_03.jpg');float:left; margin-bottom:10px;
+}
+.game img{
+    margin-bottom:5px;
+    width: 250px;
+    height: 103px;
+}
+.game .a{ color:white;text-decoration:none; font-weight:bold; padding-top:3px;
+    width:131px;height:35px;background:url('../images/pic_02.jpg');margin:10px 0 0 70px; float:left; display:inline;
+}
+.game .a:hover{
+    background:url('../images/pic_04.jpg'); text-decoration:none;
+}
+.link{ color:white;font-size:12px;padding-top:11px;
+    height:25px;background:url('../images/link.gif');clear:both;text-align:center; width:840px;margin:0px auto;
+}
+.bottom p{ padding:10px 0 10px 120px; font-size:12px;
+    color:#3a4655;line-height:18px; height:50px; text-align:center;
+}
+.bottom p span{
+    float:left; padding-left:20px;
+}
+.bottom a{color:#3a4655;}

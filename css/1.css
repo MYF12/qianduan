@@ -1,0 +1,44 @@
+.menu{
+    list-style: none;
+    background-color: #55e8ea;
+    padding:0;
+    width:980px;
+    height: 40px;
+    margin:50px auto 0;
+    position: relative;
+}
+
+.menu li{
+    float:left;
+    /*margin:0px 20px;*/
+    width:150px;
+    height:40px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.menu li a{
+    text-decoration: none;
+    /*font-size: 14px;
+ *  *     font-family: 'Microsoft Yahei';*/
+    font:14px/40px 'Microsoft Yahei';
+    color:#fff;
+}
+.menu .active{
+    background-color: #00619f;
+}
+.menu li:hover{
+    background-color: blue;
+    color:#00619f;
+}
+.menu .new{
+    width:60px;
+    height:17px;
+    background:url(../image/4.png) no-repeat;
+    position: absolute;
+    left: 322px;
+    top:-9px;
+}
+.menu .new:hover{
+    background:url(../image/4.png) no-repeat;
+}
